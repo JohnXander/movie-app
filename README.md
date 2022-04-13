@@ -1,1 +1,1 @@
-# movie-app
+# Vanilla JavaScript Movie App
